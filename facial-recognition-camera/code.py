@@ -5,7 +5,7 @@ import pandas as pd
 from pathlib import Path
 import time
 
-
+# berjaya tukar
 def capture_data(haar_cascade_path, img_dataset, database_path):
     # take image from the camera
     cam = cv2.VideoCapture(0)
